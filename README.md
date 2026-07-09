@@ -38,7 +38,9 @@ A aplicação realiza operações matemáticas básicas de forma simples e intui
 └── images/
     └── preview.png
 ```
+## 🎥 Demonstração
 
+![Demonstração da Calculadora](images/calculadora-demo.gif)
 
 ## 🎯 Objetivo de aprendizado
 
